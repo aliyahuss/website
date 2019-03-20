@@ -11,6 +11,9 @@ div {
       width: 80vw;
 }
 
+a{
+     color: rbg(0,0,0.8);
+}
 
 h1 {
   font-size: 3em;
